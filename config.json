@@ -1,0 +1,10 @@
+{
+  "search": "Machine Learning",
+  "date_posted": "any",
+  "experience_level": [1, 2],
+  "remote": ["remote", "hybrid", "on-site"],
+  "easy_apply": true,
+  "pages_max": 2,
+  "output_csv": "jobs_linkedin_details.csv",
+  "output_json": "jobs_linkedin_details.json"
+}
